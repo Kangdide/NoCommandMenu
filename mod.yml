@@ -1,0 +1,11 @@
+title: Command
+originalAuthor: Kangdide
+description: AHHHHH
+assets:
+
+#mset
+- name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+
